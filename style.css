@@ -87,7 +87,7 @@ body.dark-theme {
 body {
   margin: 0;
   font-family: var(--body-font);
-  background-color: var(--body-color);
+  /* background-color: var(--body-color); */
   color: var(--text-color);
 }
 

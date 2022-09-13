@@ -10,7 +10,27 @@
 
 <body>
     <!-- partial:index.partial.html -->
-    <div class="filler"></div>
+    <div class="filler">
+        <div class="clock__text__date">
+            <div class="clock__text">
+                <div class="clock__text-hour" id="text-hour"></div>
+                <div class="clock__text-minutes" id="text-minutes"></div>
+                <div class="clock__text-ampm" id="text-ampm"></div>
+            </div>
+
+            <div class="clock__date">
+                <span id="date-day-week"></span>
+                <span id="date-day"></span>
+                <span id="date-month"></span>
+                <span id="date-year"></span>
+            </div>
+        </div>
+
+        <blockquote>
+            Gia đình giống như nhánh của một cái cây.
+            <br>Chúng ta trưởng thành theo những hướng khác nhau nhưng đều có chung CỘI RỄ!
+        </blockquote>
+    </div>
     <svg width="200" height="200">
 
         <filter id="innerShadow" x="-20%" y="-20%" width="140%" height="140%">

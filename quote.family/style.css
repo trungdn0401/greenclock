@@ -31,13 +31,13 @@ body {
 }
 
 .container {
-	width: 390px;
+	width: 330px;
 	margin: 10px auto;
 	position: relative;
 }
 
 blockquote {
-	width: 308px;
+	width: 301px;
 	font: 1.25em CallunaRegular;
 	letter-spacing: .075em;
 	float: left;
@@ -54,7 +54,7 @@ blockquote {
 	content: "“";
 	font-size: 5em;
 	position: absolute;
-	left: -50px;
+	left: -30px;
 	color: #666;
 }
 
@@ -63,7 +63,7 @@ blockquote {
 	font-size: 5em;
 	position: absolute;
 	right: 3px;
-	top: 132px;
+	top: 136px;
 	color: #666;
 }
 

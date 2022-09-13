@@ -32,7 +32,7 @@ body {
 
 .container {
 	width: 390px;
-	margin: 140px auto;
+	margin: 10px auto;
 	position: relative;
 }
 
@@ -76,7 +76,7 @@ blockquote:first-letter {
 	font-size: 3em;
 	text-transform: lowercase;
 	float: left;
-	line-height: .61em;
+	line-height: .62em;
 	margin-right: 5px;
 	margin-left: -5px;
 	position: relative;

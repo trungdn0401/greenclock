@@ -16,6 +16,7 @@ svg {
   background: #20B7AF;
   position: absolute;
   height: 150px;
+  min-width: 900px;
   top: 0;
   left: 0;
   right: 0;
